@@ -3927,7 +3927,7 @@ end)
 
 task.spawn(function()
     local ok, err = pcall(function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/asfahjfchj-gif/-/refs/heads/main/emotes.lua"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/yy8736659-cloud/codex/refs/heads/main/emotes.lua"))()
     end)
     if not ok then
         pcall(function()
@@ -3938,7 +3938,7 @@ end)
 
 task.spawn(function()
     local ok, err = pcall(function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/asfahjfchj-gif/-/refs/heads/main/overhead_text.lua"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/yy8736659-cloud/codex/refs/heads/main/emotes.lua"))()
     end)
     if not ok then
         pcall(function()
